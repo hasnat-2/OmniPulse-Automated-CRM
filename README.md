@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-Proprietary%20Client%20Work-blue.svg?style=flat-square)](#)
 
 > **Client Engagement Case Study & Architecture Overview**  
-> **Lead Architect & Engineer:** Hammad Gujjar ([hammadgujjar01234@gmail.com](mailto:hammadgujjar01234@gmail.com))  
+> **Lead Architect & Engineer:** Hasnat Ahmad 
 > **Client Industry:** High-Growth B2B Digital Marketing & Sales Operations Agency  
 > **Delivery Target:** Custom Real-Time Multi-Tenant CRM, Deal Pipeline & Revenue Automation Engine
 
