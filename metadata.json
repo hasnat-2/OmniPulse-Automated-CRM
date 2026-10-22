@@ -1,0 +1,6 @@
+{
+  "name": "OmniPulse CRM",
+  "description": "Multi-tenant CRM and sales automation platform for agencies and service businesses with interactive pipeline, contact activity tracking, RBAC, and automated background jobs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
