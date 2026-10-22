@@ -120,7 +120,7 @@ OmniPulse was architected from the ground up to solve these friction points thro
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/hammadgujjar01234/omnipulse-crm.git
+git clone https://github.com/hasnat-2/omnipulse-crm.git
 cd omnipulse-crm
 ```
 
