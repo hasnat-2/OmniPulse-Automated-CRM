@@ -203,8 +203,7 @@ npm start
 
 ## 👤 Engineering & Author Credits
 
-- **Full-Stack Engineer & Architect:** Hammad Gujjar
-- **Email:** [hammadgujjar01234@gmail.com](mailto:hammadgujjar01234@gmail.com)
+- **Full-Stack Engineer & Architect:** Hasnat Ahmad
 - **Specialization:** Next.js Full-Stack Architecture, Real-Time Distributed Systems, High-Density SaaS UI/UX.
 
 ---
